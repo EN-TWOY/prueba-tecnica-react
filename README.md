@@ -4,6 +4,7 @@ La API de Rick and Morty es una valiosa fuente de datos que ofrece información 
 ## Demo
 ![image](https://user-images.githubusercontent.com/85379478/227086926-c87f7f4c-a55c-4ea1-8c7b-470191c764b2.png)
 ![image](https://user-images.githubusercontent.com/85379478/227086998-6aba9f13-e0db-4f9c-a52d-86eceeb63593.png)
+![image](https://user-images.githubusercontent.com/85379478/227091507-3a1e6846-2c55-4eed-af17-9882e04fbe24.png)
 
 # Getting Started with Create React App
 

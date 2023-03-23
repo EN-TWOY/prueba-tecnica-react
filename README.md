@@ -1,3 +1,10 @@
+## About The Project
+La API de Rick and Morty es una valiosa fuente de datos que ofrece información detallada sobre los personajes, episodios y ubicaciones de la popular serie de televisión animada. En este proyecto utilizando React, se ha implementado la funcionalidad de mostrar información sobre los personajes a través de una tabla, y permitiendo la opción de acceder a información detallada sobre cada uno de ellos.
+
+## Demo
+![image](https://user-images.githubusercontent.com/85379478/227086926-c87f7f4c-a55c-4ea1-8c7b-470191c764b2.png)
+![image](https://user-images.githubusercontent.com/85379478/227086998-6aba9f13-e0db-4f9c-a52d-86eceeb63593.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
